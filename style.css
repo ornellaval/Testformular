@@ -1,0 +1,88 @@
+/*allgemeines*/
+*{
+    margin:o;
+    padding:0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+body{
+    background-size: cover;
+    background-color: black;
+    color: orange;
+    font-size: 1,2rem;
+}
+
+h1{
+     text-align: center;
+     font-size: 1,5px;
+     font-family: andalus;
+     letter-spacing: 2px;
+     color:orange;
+ }
+
+#submit{
+    margin: 50px 50px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid white;
+    color:white ;
+    background-color: orange;
+    width: 80%;
+    font-size: 17px;
+    text-align: center;
+}
+
+.Anmeldung-form{
+position: absolute;
+width: 50%;
+display:flex;
+flex-direction: column;
+position: absolute;
+text-align: center;
+align-items:center;
+max-width: 100%;
+min-width: 100%;
+}
+
+.Anmeldung-form input{
+    border:0px;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    margin: 10px;
+}
+.Anmeldung-form label{
+    margin: 20px 0;
+    font-size: 15px;
+}
+
+/*margin-top: 70px;
+    width:27%;
+    background-color:orange;
+    box-shadow:5px 5px 20px 1px 10px rgb(85, 85, 85);
+    border:0px;
+    border-radius: 10px 10px 10px 10px;
+    height: 450%;
+    flex-direction: column;
+    display:flex;
+    max-width: 100%;
+    min-width: 100%;
+    align-items: center;
+
+}*/
+  /* 
+.Anmeldung-form p{
+    font-size: 16px;
+    margin: 15px 0;
+}
+.Anmeldung-form input{
+    width: 50%;
+    font-size: 16px;
+    border: 0;
+    border-radius: 10px;
+    padding: 15px 10px;
+    outline: none;
+}
+*/
